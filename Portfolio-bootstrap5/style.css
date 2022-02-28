@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+.jumbotron h1 {
+  padding-top: 1rem;
+  font-family: 'Pacifico', cursive;
+}
+#projects {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+
+.judul {
+  font-family: 'Pacifico', cursive;
+}
+
+.navigasi {
+  font-family: 'Noto Serif', sans-serif;
+}
+
+.profesi {
+  font-family: 'Rubik', sans-serif;
+}
+nav {
+  background-color: #6793a6;
+}
+footer {
+  background-color: #6793a6;
+}
